@@ -4,3 +4,6 @@ This is new line in file2
 
 
 This is new line after upload
+
+
+This is new line after second upload
