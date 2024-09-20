@@ -2,3 +2,6 @@ This is file 3
 
 
 This is latest line
+
+
+This is third line in file3.txt
